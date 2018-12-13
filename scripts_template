@@ -1,0 +1,5 @@
+/*data generation script*/
+python sc_data_preprocessing.py BG_2018_v2.csv BG_V2_SKU.csv BG_V2_Shop.csv month 7 8 Пятёрочка Пиво BALTIKA Москва cp1251 ';' 001 0
+
+/*aso*/
+python sc_aso.py Пятёрочка Москва 001 0 34
