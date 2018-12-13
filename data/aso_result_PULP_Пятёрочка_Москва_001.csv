@@ -1,0 +1,115 @@
+Date: 2018-12-13
+Network:Пятёрочка
+City:Москва
+transaction file: transaction_data_Пятёрочка_Москва_001.dat with nb_prod = 63 products
+min_capacity: 0
+max_capacity: 35
+1859 assortments available in transaction dataset
+Optimal assortment found in 83.43912672996521 seconds. Number of products 36
+
+Products present in optimal assortment:
+[6500, 6547, 6978, 7019, 7020, 7029, 7041, 7042, 6056, 7043, 7045, 7046, 7054, 7056, 7057, 7058, 7223, 6204, 7239, 7240, 7281, 7349, 7359, 7361, 7436, 7464, 7468, 7475, 7477, 7547, 7571, 7633, 6235, 7672, 7679, 6255]
+
+['Пиво БАЛТИКА РАЗЛИВ.св.5,3% ПЭТ 1.5л', 'Пиво TUBORG GREEN св.ж/б 4,6% 0.45л', 'Пиво БАЛТИКА ЭКСПОР.№7 св.ж/б 5,4% 0.45л', 'Пиво CARLSBERG свет.4,6% ПЭТ 1.35л', 'Пиво ЖИГУЛЕВСКОЕ свет.4% ПЭТ 1.3л', 'Пиво ЖИГУЛЕВСКОЕ св.паст.4% 1.4л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво HOLSTEN PREMIUM св.ж/б 4,8% 0.45л', 'Пиво HOLSTEN PREM.св.4,8% ст/б 0.47л', 'Пиво ЖИГУЛЕВСКОЕ ФИРМЕН.св.ПЭТ 1.0л', 'Нап.С&Р.ГАРАЖ.Х.ЛИМ.осн.пива 4,6% 0.44л', 'Пиво АРСЕНАЛ.ТРАДИЦ.свет.4,7% ПЭТ 1.35л', 'Пиво TUBORG GREEN св.4,6% ст/б 0.48л', 'Пиво БАЛТИКА ЭКСПОРТНОЕ №7 св.ж/б 0.9л', 'Пиво БАЛТИКА КРЕП.№9 свет.8% ПЭТ 1.35л', 'Пиво PETERHOF св.нефил.4,6% ПЭТ 1.0л', 'Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л', 'Пиво CARLSBERG св.4,6% ст/б 0.48л', 'Нап.пивн.KRONENBOURG 1664 БЛ.4,5% 0.46л', 'Пиво ZATECKY GUS 4,6% ст/б 0.48л', 'Нап.KARMI SENS.осн.пив.ар.ман/ап6% 0.48л', 'Нап.С&Р.ГАР.ХАРД БРУС.осн.пив.4,6% 0.44л', 'Нап.ЖАТЕЦ.ГУСЬ ЧЕР.осн.пив.3,2%ПЭТ 1.35л', 'Пиво ZATECKY GUS св.ж/б 4,6% 0.45л', 'Нап.КРОН.1664 БЛ.ар.осн.пив4,5%ж/б 0.45л', 'Пиво БАЛТИКА №7 ЭКСП.5,4% ст/б 0.5л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Пиво БАЛТИКА ЭКСПОРТ.№7 свет.5,4% 1.35л', 'Пиво БАЛТИКА №7 ЭКСПОРТ.5,4% ст/б 0.47л', 'Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Пиво TUBORG GREEN св.ж/б 0.9л', 'Пиво БАЛТИКА КЛАС.№3 свет.4,8% ПЭТ 1.35л', 'Пиво ZATECKY GUS свет.паст.4,6% ПЭТ1.35л', 'Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л', 'Пиво БАЛТИКА КЛАС.№3 св.ж/б 0.9л', 'Пиво KRONENBOURG св.4,5% ст/б 0.46л']
+
+List of common products in assorment with higher real revenue and optimal assortment: 
+[6056, 6235, 6255, 6500, 6978, 7019, 7020, 7029, 7041, 7042, 7043, 7045, 7046, 7056, 7057, 7058, 7223, 7281, 7349, 7361, 7436, 7464, 7475, 7547, 7571, 7633, 7672, 7679]
+
+['Пиво БАЛТИКА РАЗЛИВ.св.5,3% ПЭТ 1.5л', 'Пиво TUBORG GREEN св.ж/б 4,6% 0.45л', 'Пиво БАЛТИКА ЭКСПОР.№7 св.ж/б 5,4% 0.45л', 'Пиво CARLSBERG свет.4,6% ПЭТ 1.35л', 'Пиво ЖИГУЛЕВСКОЕ свет.4% ПЭТ 1.3л', 'Пиво ЖИГУЛЕВСКОЕ св.паст.4% 1.4л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво HOLSTEN PREMIUM св.ж/б 4,8% 0.45л', 'Пиво HOLSTEN PREM.св.4,8% ст/б 0.47л', 'Пиво ЖИГУЛЕВСКОЕ ФИРМЕН.св.ПЭТ 1.0л', 'Нап.С&Р.ГАРАЖ.Х.ЛИМ.осн.пива 4,6% 0.44л', 'Пиво TUBORG GREEN св.4,6% ст/б 0.48л', 'Пиво БАЛТИКА КРЕП.№9 свет.8% ПЭТ 1.35л', 'Пиво PETERHOF св.нефил.4,6% ПЭТ 1.0л', 'Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л', 'Пиво CARLSBERG св.4,6% ст/б 0.48л', 'Нап.пивн.KRONENBOURG 1664 БЛ.4,5% 0.46л', 'Пиво ZATECKY GUS 4,6% ст/б 0.48л', 'Нап.С&Р.ГАР.ХАРД БРУС.осн.пив.4,6% 0.44л', 'Нап.ЖАТЕЦ.ГУСЬ ЧЕР.осн.пив.3,2%ПЭТ 1.35л', 'Пиво ZATECKY GUS св.ж/б 4,6% 0.45л', 'Нап.КРОН.1664 БЛ.ар.осн.пив4,5%ж/б 0.45л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Пиво БАЛТИКА ЭКСПОРТ.№7 свет.5,4% 1.35л', 'Пиво БАЛТИКА №7 ЭКСПОРТ.5,4% ст/б 0.47л', 'Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Пиво ZATECKY GUS свет.паст.4,6% ПЭТ1.35л', 'Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л']
+
+List of new recommended products: 
+[6204, 6547, 7054, 7239, 7240, 7359, 7468, 7477]
+
+['Пиво АРСЕНАЛ.ТРАДИЦ.свет.4,7% ПЭТ 1.35л', 'Пиво БАЛТИКА ЭКСПОРТНОЕ №7 св.ж/б 0.9л', 'Нап.KARMI SENS.осн.пив.ар.ман/ап6% 0.48л', 'Пиво БАЛТИКА №7 ЭКСП.5,4% ст/б 0.5л', 'Пиво TUBORG GREEN св.ж/б 0.9л', 'Пиво БАЛТИКА КЛАС.№3 свет.4,8% ПЭТ 1.35л', 'Пиво БАЛТИКА КЛАС.№3 св.ж/б 0.9л', 'Пиво KRONENBOURG св.4,5% ст/б 0.46л']
+
+List of excluded products: 
+[6468, 6481, 7028, 7326, 7328, 7620]
+
+['Пиво БАЛТИКА ЭКСП.№7 Б/АЛК.св.0,5% 0.47л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л', 'Пиво ЖИГУЛЕВСКОЕ ФИР.ЖИВ.св.неп.4% 0.47л', 'Пиво БАЛТИКА №3 КЛАССИЧ.4,8% ст/б 0.45л', 'Пиво БАЛТИКА №9 КРЕП.8% 1.42л', 'Пиво ЖИГУЛЕВ.ФИРМЕН.св.4,5% ст/б 0.47л']
+
+Expected revenue of the optimal assortment:
+15171.40
+Expected baseline revenue according to GDT model:
+15317.28
+Increase of revenue vs baseline:
+-0.95%
+
+Customer behavior (probabilities): 
+
+Sigma number 0, probability associated:0.159987841262, prefered products in order:[]
+Sigma number 1, probability associated:0.101251830799, prefered products in order:['Пиво БАЛТИКА ЭКСПОР.№7 св.ж/б 5,4% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 2, probability associated:0.0618879874884, prefered products in order:['Пиво TUBORG GREEN св.ж/б 4,6% 0.45л', 'Пиво CARLSBERG св.4,6% ст/б 0.48л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 3, probability associated:0.0612437644833, prefered products in order:['Пиво ZATECKY GUS св.ж/б 4,6% 0.45л', 'Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 4, probability associated:0.0372973302943, prefered products in order:['Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Нап.КРОН.1664 БЛ.ар.осн.пив4,5%ж/б 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 5, probability associated:0.0372053982936, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво TUBORG GREEN св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 6, probability associated:0.0366352152891, prefered products in order:['Пиво CARLSBERG св.4,6% ст/б 0.48л', 'Нап.С&Р.ГАР.ХАРД БРУС.осн.пив.4,6% 0.44л']
+Sigma number 7, probability associated:0.0313897522477, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво ZATECKY GUS 4,6% ст/б 0.48л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 8, probability associated:0.0278094292194, prefered products in order:['Пиво TUBORG GREEN св.4,6% ст/б 0.48л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 9, probability associated:0.0244815991932, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво TUBORG GREEN св.4,6% ст/б 0.48л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 10, probability associated:0.0189399871495, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво ZATECKY GUS св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 11, probability associated:0.0189096341492, prefered products in order:['Пиво ZATECKY GUS св.ж/б 4,6% 0.45л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 12, probability associated:0.0184435441455, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 13, probability associated:0.0176279261391, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Пиво CARLSBERG свет.4,6% ПЭТ 1.35л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 14, probability associated:0.0175716821387, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Нап.КРОН.1664 БЛ.ар.осн.пив4,5%ж/б 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 15, probability associated:0.0166956671317, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л']
+Sigma number 16, probability associated:0.0151179851193, prefered products in order:['Нап.С&Р.ГАРАЖ.Х.ЛИМ.осн.пива 4,6% 0.44л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 17, probability associated:0.0150928041191, prefered products in order:['Нап.С&Р.ГАР.ХАРД БРУС.осн.пив.4,6% 0.44л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 18, probability associated:0.013047231103, prefered products in order:['Пиво БАЛТИКА №7 ЭКСПОРТ.5,4% ст/б 0.47л', 'Нап.ЖАТЕЦ.ГУСЬ ЧЕР.осн.пив.3,2%ПЭТ 1.35л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 19, probability associated:0.0122676300968, prefered products in order:['Пиво ZATECKY GUS свет.паст.4,6% ПЭТ1.35л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 20, probability associated:0.0122528260967, prefered products in order:['Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 21, probability associated:0.0121796100961, prefered products in order:['Пиво ZATECKY GUS 4,6% ст/б 0.48л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 22, probability associated:0.011787845093, prefered products in order:['Нап.КРОН.1664 БЛ.ар.осн.пив4,5%ж/б 0.45л']
+Sigma number 23, probability associated:0.0116405570919, prefered products in order:['Пиво CARLSBERG свет.4,6% ПЭТ 1.35л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 24, probability associated:0.0107567940849, prefered products in order:['Пиво ZATECKY GUS 4,6% ст/б 0.48л', 'Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л']
+Sigma number 25, probability associated:0.0107216930846, prefered products in order:['Пиво HOLSTEN PREMIUM св.ж/б 4,8% 0.45л']
+Sigma number 26, probability associated:0.0103034560813, prefered products in order:['Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л', 'Пиво TUBORG GREEN св.4,6% ст/б 0.48л']
+Sigma number 27, probability associated:0.00991472307824, prefered products in order:['Пиво CARLSBERG св.4,6% ст/б 0.48л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 28, probability associated:0.00984593267769, prefered products in order:['Пиво БАЛТИКА ЭКСПОРТ.№7 свет.5,4% 1.35л', 'Нап.С&Р.ГАРАЖ.Х.ЛИМ.осн.пива 4,6% 0.44л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 29, probability associated:0.00865788636832, prefered products in order:['Нап.пивн.KRONENBOURG 1664 БЛ.4,5% 0.46л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л']
+Sigma number 30, probability associated:0.0081988495647, prefered products in order:['Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л']
+Sigma number 31, probability associated:0.00795601476278, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л']
+Sigma number 32, probability associated:0.00763657156026, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л']
+Sigma number 33, probability associated:0.00743959895871, prefered products in order:['Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л', 'Пиво БАЛТИКА ЭКСПОРТ.№7 свет.5,4% 1.35л']
+Sigma number 34, probability associated:0.0073125874577, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л']
+Sigma number 35, probability associated:0.00677744265348, prefered products in order:['Пиво БАЛТИКА №7 ЭКСПОРТ.5,4% ст/б 0.47л']
+Sigma number 36, probability associated:0.0067542252533, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л']
+Sigma number 37, probability associated:0.00673834375317, prefered products in order:['Пиво HOLSTEN PREM.св.4,8% ст/б 0.47л']
+Sigma number 38, probability associated:0.00672683065308, prefered products in order:['Пиво ZATECKY GUS свет.паст.4,6% ПЭТ1.35л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л']
+Sigma number 39, probability associated:0.00631501014983, prefered products in order:['Пиво БАЛТИКА №3 КЛАССИЧ.4,8% ст/б 0.45л', 'Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л']
+Sigma number 40, probability associated:0.00600568664739, prefered products in order:['Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л', 'Нап.С&Р.ГАР.ХАРД БРУС.осн.пив.4,6% 0.44л']
+Sigma number 41, probability associated:0.00589895224655, prefered products in order:['Пиво CARLSBERG св.ж/б 4,6% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 42, probability associated:0.0056015018442, prefered products in order:['Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л']
+Sigma number 43, probability associated:0.00501657013959, prefered products in order:['Пиво PETERHOF св.нефил.4,6% ПЭТ 1.0л']
+Sigma number 44, probability associated:0.00464087643662, prefered products in order:['Пиво БАЛТИКА ЭКСПОРТ.№7 свет.5,4% 1.35л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 45, probability associated:0.00446249723521, prefered products in order:['Пиво БАЛТИКА №7 ЭКСПОРТ.5,4% ст/б 0.47л', 'Пиво TUBORG GREEN св.4,6% ст/б 0.48л']
+Sigma number 46, probability associated:0.00377014642975, prefered products in order:['Пиво БАЛТИКА КРЕП.№9 свет.8% ПЭТ 1.35л']
+Sigma number 47, probability associated:0.0037637602297, prefered products in order:['Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Пиво БАЛТИКА КРЕП.№9 свет.8% ПЭТ 1.35л']
+Sigma number 48, probability associated:0.00313086242471, prefered products in order:['Пиво БАЛТИКА №7 ЭКСПОРТ.5,4% ст/б 0.47л', 'Пиво БАЛТИКА №3 КЛАССИЧ.4,8% ст/б 0.45л']
+Sigma number 49, probability associated:0.00296449772339, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Пиво ZATECKY GUS свет.паст.4,6% ПЭТ1.35л']
+Sigma number 50, probability associated:0.00276054492178, prefered products in order:['Пиво БАЛТИКА №7 ЭКСПОРТ.5,4% ст/б 0.47л', 'Пиво ЖИГУЛЕВСКОЕ свет.4% ПЭТ 1.3л']
+Sigma number 51, probability associated:0.00269171242124, prefered products in order:['Пиво ЖИГУЛЕВ.ФИРМЕН.св.4,5% ст/б 0.47л']
+Sigma number 52, probability associated:0.0025603541202, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л']
+Sigma number 53, probability associated:0.0025474077201, prefered products in order:['Пиво ЖИГУЛЕВСКОЕ ФИРМЕН.св.ПЭТ 1.0л']
+Sigma number 54, probability associated:0.00222344531755, prefered products in order:['Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Нап.ЖАТЕЦ.ГУСЬ ЧЕР.осн.пив.3,2%ПЭТ 1.35л']
+Sigma number 55, probability associated:0.00205865101624, prefered products in order:['Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л', 'Пиво ZATECKY GUS св.ж/б 4,6% 0.45л']
+Sigma number 56, probability associated:0.00188901231491, prefered products in order:['Пиво ZATECKY GUS 4,6% ст/б 0.48л', 'Пиво ЖИГУЛЕВСКОЕ свет.4% ПЭТ 1.3л']
+Sigma number 57, probability associated:0.0017109268135, prefered products in order:['Пиво ZATECKY GUS 4,6% ст/б 0.48л', 'Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л']
+Sigma number 58, probability associated:0.00166195581311, prefered products in order:['Пиво ЖИГУЛЕВСКОЕ ФИР.ЖИВ.св.неп.4% 0.47л']
+Sigma number 59, probability associated:0.00161755901276, prefered products in order:['Пиво ЖИГУЛЕВСКОЕ св.паст.4% 1.4л']
+Sigma number 60, probability associated:0.00160810051269, prefered products in order:['Пиво ЖИГУЛЕВСКОЕ свет.4% ПЭТ 1.3л']
+Sigma number 61, probability associated:0.00143345901131, prefered products in order:['Пиво БАЛТИКА РАЗЛИВ.св.5,3% ПЭТ 1.5л']
+Sigma number 62, probability associated:0.00122752600969, prefered products in order:['Пиво БАЛТИКА №3 КЛАССИЧ.4,8% ст/б 0.45л', 'Пиво CARLSBERG св.ж/б 4,6% 0.45л']
+Sigma number 63, probability associated:0.00117164530925, prefered products in order:['Пиво БАЛТИКА Б/АЛК.№0 св.ж/б 0,5% 0.45л', 'Нап.ZAT.GUS CERNY осн.пив.3,5% ж/б 0.45л']
+Sigma number 64, probability associated:0.00114354380902, prefered products in order:['Пиво БАЛТИКА КЛАССИЧ.№3 св.ж/б4,8% 0.45л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 65, probability associated:0.00100551960793, prefered products in order:['Пиво CARLSBERG св.4,6% ст/б 0.48л', 'Нап.С&Р.ГАР.ХАРД БРУС.осн.пив.4,6% 0.44л', 'Нап.пивн.БАЛТИКА №0 неф.пш.б/ал.ж/б0.45л']
+Sigma number 66, probability associated:0.000877130186921, prefered products in order:['Нап.КРОН.1664 БЛ.ар.осн.пив4,5%ж/б 0.45л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л']
+Sigma number 67, probability associated:0.00072360733571, prefered products in order:['Нап.ЖАТЕЦ.ГУСЬ ЧЕР.осн.пив.3,2%ПЭТ 1.35л']
+Sigma number 68, probability associated:0.000416162683284, prefered products in order:['Пиво БАЛТИКА ЭКСП.№7 Б/АЛК.св.0,5% 0.47л']
+Sigma number 69, probability associated:0.000177504821401, prefered products in order:['Пиво БАЛТИКА №0 б/алк.св.0,5% ст/б 0.47л']
+Sigma number 70, probability associated:0.000165152361303, prefered products in order:['Пиво БАЛТИКА КУЛЕР св.ж/б 4,7% 0.45л']
+Sigma number 71, probability associated:0.000129124551019, prefered products in order:['Пиво KOFF св.ж/б 4,5% 0.45л']
+Sigma number 72, probability associated:6.44742435088e-05, prefered products in order:['Пиво БАЛТИКА №3 КЛАССИЧ.4,8% ст/б 0.45л', 'Пиво БАЛТИКА КРЕПКОЕ №9 св.ж/б 8% 0.45л']
+Sigma number 73, probability associated:4.78088763773e-05, prefered products in order:['Пиво БАЛТИКА КУЛЕР св.4,7% 0.47л']
+Sigma number 74, probability associated:1.1281470089e-05, prefered products in order:['Пиво KRONENBOURG св.4,5% ст/б 0.46л']
+
+Assortment optimization completed
